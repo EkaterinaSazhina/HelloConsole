@@ -1,0 +1,15 @@
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Users\teos2\OneDrive\Desktop\example\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
